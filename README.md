@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @higinenggar
 - 👀 I’m interested in Mobile Developer
 - 🌱 I’m currently learning Flutter (Dart)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 higinenggar/higinenggar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
